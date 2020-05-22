@@ -1,0 +1,31 @@
+id,brand_id,feed_id,partnum,description,msrp,map,map_override,status,ignore_import,searched,created_at,updated_at,brand_name
+309534,326,,K0001X2,"SBC Strutted Flat Top 1.125"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309535,326,,K0001X3,"SBC Strutted Flat Top 1.125"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309536,326,,K0001X4,"SBC Strutted Flat Top 1.125"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309537,326,,K0001X5,"SBC Strutted Flat Top 1.125"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309538,326,,K0001X6,"SBC Strutted Flat Top 1.125"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309539,326,,K0002X2,"SBC Strutted Flat Top 1.250"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309540,326,,K0002X3,"SBC Strutted Flat Top 1.250"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309541,326,,K0002X4,"SBC Strutted Flat Top 1.250"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+309542,326,,K0002X5,"SBC Strutted Flat Top 1.250"" CH",$1047.87,$944.03,$944.03,Yes,0,2020-04-24 06:01:42,2019-02-06 17:42:33,2020-04-24 16:20:04,Wiseco Auto
+,326,,S100S8-4400-0,4.400 Bore - 1/16-1/16-3/16 ECONO,$123.22,$111.01,$111.01,Yes,,,,,Wiseco Auto
+,326,,S100S8-4420-5,4.420 Bore - 1/16-1/16-3/16 ECONO,$123.22,$111.01,$111.01,Yes,,,,,Wiseco Auto
+,326,,S100S8-4440-5,4.440 Bore - 1/16-1/16-3/16 ECONO,$123.22,$111.01,$111.01,Yes,,,,,Wiseco Auto
+,326,,W6599,SC Gasket - Nissan VQ30DE DOHC 24V V6,$85.14,$76.70,$76.70,Yes,,,,,Wiseco Auto
+,326,,W6600,SC Gasket - '01-UP Honda K20A1/2/3 2.0L,$85.14,$76.70,$76.70,Yes,,,,,Wiseco Auto
+,326,,W6601,SC Gasket - Toyota 1ZZ-FE 1.8L 82mm,$85.14,$76.70,$76.70,Yes,,,,,Wiseco Auto
+,326,,W6602,"SC Gasket - Hon B16A2/3, B18C1/5, B17A1",$85.14,$76.70,$76.70,Yes,,,,,Wiseco Auto
+,326,,W6603,SC Gasket - Honda D15/D16 79mm,$85.14,$76.70,$76.70,Yes,,,,,Wiseco Auto
+,326,,W6606,"SC Gasket - BMW M42/M44 86mm .060"" thick",$130.85,$117.88,$117.88,Yes,,,,,Wiseco Auto
+,326,,W6607,"SC Gasket - BMW M42/M44 85mm .060"" thick",$130.85,$117.88,$117.88,Yes,,,,,Wiseco Auto
+,326,,W6608,SC Gasket - BMW M20 SOHC 12V 81mm,$197.30,$177.75,$177.75,Yes,,,,,Wiseco Auto
+,326,,W6609,SC Gasket - BMW M20 SOHC 12V 85mm,$197.30,$177.75,$177.75,Yes,,,,,Wiseco Auto
+,326,,W6610,SC Gasket - BMW M50B20 2.0L 82mm,$211.14,$190.22,$190.22,Yes,,,,,Wiseco Auto
+,326,,W6611,SC Gasket - BMW M50B25/M52B28 85mm,$211.14,$190.22,$190.22,Yes,,,,,Wiseco Auto
+,326,,W6612,SC Gasket - BMW S50B30/S52B32 87mm (US),$211.14,$190.22,$190.22,Yes,,,,,Wiseco Auto
+,326,,W6613,SC Gasket - BMW M54B22 81mm,$155.78,$140.34,$140.34,Yes,,,,,Wiseco Auto
+,326,,W6623,"SC Gasket - Opel/Vaux .065"" 16V 2L 88mm",$100.78,$90.79,$90.79,Yes,,,,,Wiseco Auto
+,326,,W6624,Head Gasket - Opel/Vauxhall 97mm .051,$153.39,$138.19,$138.19,Yes,,,,,Wiseco Auto
+,326,,W6637,SC Head Gasket- BMW S38B35 - .070,$219.38,$197.64,$197.64,Yes,,,,,Wiseco Auto
+,326,,W6653,Head Gasket- Peugeot XU9/XU10 86.5mm,$97.18,$87.55,$87.55,Yes,,,,,Wiseco Auto
+,326,,W6800,Head Gasket - Nissan RB25 2.5L 87mm,$170.11,$153.25,$153.25,Yes,,,,,Wiseco Auto
