@@ -1,7 +1,7 @@
 <?php
 include("ExcelCSVParser.php");
 
-$csv = new ExcelCSVParser("class_example.csv");
+$csv = new \Neitanod\ExcelCSVParser\ExcelCSVParser("class_example.csv");
 
 $csv->setSeparator(',');
 

@@ -39,7 +39,7 @@ POSSIBILITY OF SUCH DAMAGE.
 /*
 Example:
 
-$csvfile = new ExcelCSVParser("file.csv");
+$csvfile = new \Neitanod\ExcelCSVParser\ExcelCSVParser("file.csv");
 while(!$csvfile->eof()){
     $line = $csvfile->parseLine();
     $values[] = $line;
@@ -65,6 +65,8 @@ print_r($values);
    * )
 
 */
+
+namespace Neitanod\ExcelCSVParser;
 
 class ExcelCSVParser {
 
